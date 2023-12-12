@@ -7,7 +7,7 @@
             <datadir zip="true">https://raw.githubusercontent.com/rtuRgALp/knuckles.github.io/master/repo/zips/</datadir>
         </dir>
     </extension>
-    <extension point="xbmc.addon.metadata">
+    <extension point="knuckles.addon.metadata">
         <summary>Fen Light</summary>
         <description>Fen Light 1.0.5 backup #LongLiveTiki</description>
         <disclaimer></disclaimer>
