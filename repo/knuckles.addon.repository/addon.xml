@@ -9,7 +9,7 @@
     </extension>
     <extension point="knuckles.addon.metadata">
         <summary>Fen Light</summary>
-        <description>Fen Light 1.0.5 backup #LongLiveTiki</description>
+        <description>Fen Light 1.0.05 backup #LongLiveTiki</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
